@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/jessadakorn-paopatimakorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jessadakorn-paopatimakorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
   <a href="https://www.facebook.com/jessadakorn.paopatimakorn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
-  <a href="discordapp.com/users/308917097314910209" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="30" width="40"/></a>
+  <a href="https://discordapp.com/users/308917097314910209" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="30" width="40"/></a>
 </p>
 
 </p>
